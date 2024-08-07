@@ -16,7 +16,6 @@ IDE (IntelliJ IDEA, Eclipse, etc.)
 Browser drivers (e.g., ChromeDriver, GeckoDriver)
 
 **Clone reprository**
-git clone https://github.com/yourusername/shaloo_kumari_teladoc_challenge.git
-
+git clone https://github.com/shaloo53/shaloo_kumari_teladoc_challenge.git
 **Reporting**
 Test results are logged using ExtentReports and saved in the reports folder. To view the report, open the ExtentReport.html file in a web browser.
