@@ -8,8 +8,8 @@ BDD Framework (Cucumber/JBehave)
 POM Design Pattern
 ExtentReports
 
-**Setup Instructions
-**Prerequisites
+**Setup Instructions**
+**Prerequisites**
 Java JDK 8 or higher
 Maven
 IDE (IntelliJ IDEA, Eclipse, etc.)
